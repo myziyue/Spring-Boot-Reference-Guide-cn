@@ -12,5 +12,6 @@ Desktop.ini
  *.log
  *.bak
  *.swp
+ *.code-workspace
 
 # 项目文件
