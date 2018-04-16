@@ -15,4 +15,4 @@ It includes an introduction to Spring Boot, along with installation instructions
 
 We then walk you through building your first Spring Boot application, discussing some core principles as we go.
 
-我们将在引导您构建你的第一个Spring Boot应用，并讨论一些核心原则。
+我们将在引导您构建你的第一个Spring Boot应用，并讨论一些核心原则。
