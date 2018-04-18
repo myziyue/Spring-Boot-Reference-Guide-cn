@@ -3,9 +3,9 @@ Spring Boot Reference Guide中文版
 
 ## Table of Contents
 
-- I. Spring Boot Docmentation
+- I. Spring Boot Documentation
 
-    1. About the Docmentation
+    1. About the Documentation
     
     2. Getting Help
     
